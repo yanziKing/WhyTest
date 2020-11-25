@@ -1,0 +1,149 @@
+2020-11-11 19:49:38,419 INFO main [Tests.log4jTest]info(line:36)dhsajhdjshdakjdhsah
+2020-11-11 19:49:38,435 ERROR main [Tests.log4jTest]error(line:39)adsaffdsfdfdsfd
+2020-11-11 19:49:38,435 WARN main [Tests.log4jTest]warn(line:42)111111111111
+2020-11-11 19:49:38,435 DEBUG main [Tests.log4jTest]debug(line:45)2222222222222
+2020-11-11 19:51:42,294 INFO main [Tests.log4jTest]info(line:36)dhsajhdjshdakjdhsah
+2020-11-11 19:51:42,310 ERROR main [Tests.log4jTest]error(line:39)adsaffdsfdfdsfd
+2020-11-11 19:51:42,310 WARN main [Tests.log4jTest]warn(line:42)111111111111
+2020-11-11 19:55:08,373 INFO main [Tests.log4jTest]info(line:36)dhsajhdjshdakjdhsah
+2020-11-11 19:55:08,388 ERROR main [Tests.log4jTest]error(line:39)adsaffdsfdfdsfd
+2020-11-11 19:55:08,388 WARN main [Tests.log4jTest]warn(line:42)111111111111
+2020-11-11 19:55:08,388 DEBUG main [Tests.log4jTest]debug(line:45)2222222222222
+2020-11-11 19:57:02,747 INFO main [Tests.log4jTest]info(line:36)dhsajhdjshdakjdhsah
+2020-11-11 19:57:02,747 ERROR main [Tests.log4jTest]error(line:39)adsaffdsfdfdsfd
+2020-11-11 19:57:02,747 WARN main [Tests.log4jTest]warn(line:42)111111111111
+2020-11-11 19:57:02,747 DEBUG main [Tests.log4jTest]debug(line:45)2222222222222
+2020-11-11 19:58:06,732 INFO main [Tests.log4jTest]info : dhsajhdjshdakjdhsah
+2020-11-11 19:58:06,732 ERROR main [Tests.log4jTest]error : adsaffdsfdfdsfd
+2020-11-11 19:58:06,732 WARN main [Tests.log4jTest]warn : 111111111111
+2020-11-11 19:58:06,732 DEBUG main [Tests.log4jTest]debug : 2222222222222
+2020-11-11 19:59:38,873 INFO main [Tests.log4jTest]info : dhsajhdjshdakjdhsah
+2020-11-11 19:59:38,888 ERROR main [Tests.log4jTest]error : adsaffdsfdfdsfd
+2020-11-11 19:59:38,888 WARN main [Tests.log4jTest]warn : 111111111111
+2020-11-11 19:59:38,888 DEBUG main [Tests.log4jTest]debug : 2222222222222
+2020-11-11 20:02:23,638 INFO main [Tests.log4jTest]info : dhsajhdjshdakjdhsah
+2020-11-11 20:02:23,654 ERROR main [Tests.log4jTest]error : adsaffdsfdfdsfd
+2020-11-11 20:02:23,654 WARN main [Tests.log4jTest]warn : 111111111111
+2020-11-11 20:02:23,654 DEBUG main [Tests.log4jTest]debug : 2222222222222
+2020-11-11 20:02:23,700 DEBUG main [Tests.log4jTestA]debug : aaaaaaaaaaaaaaaaaaaaaa
+2020-11-12 14:29:38,357 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-12 14:29:50,810 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-12 14:29:55,524 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-12 14:30:20,766 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-12 14:56:22,872 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-12 14:56:30,466 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-12 14:56:34,117 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-12 14:56:34,135 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-12 14:56:34,857 DEBUG main [TagOperationMethod.InputTag]debug : --clear input box xpath://input[@id = 'kw']
+2020-11-12 14:56:35,107 DEBUG main [TagOperationMethod.InputTag]debug : --input box write text  xpath://input[@id = 'kw']
+2020-11-12 14:56:39,154 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-12 14:56:39,325 DEBUG main [TagOperationMethod.InputTag]debug : --Delete text key xpath：//input[@id = 'kw']
+2020-11-12 14:56:42,529 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-12 14:56:42,701 DEBUG main [TagOperationMethod.InputTag]debug : --mouse double click xpath://input[@id = 'kw']
+2020-11-12 14:56:46,169 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-12 14:56:46,247 DEBUG main [TagOperationMethod.InputTag]debug : --Keys cut text xpath://input[@id = 'kw']
+2020-11-12 14:56:49,341 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-12 14:56:49,450 DEBUG main [TagOperationMethod.InputTag]debug : --Keys copy text xpath://input[@id = 'kw']
+2020-11-12 14:56:52,607 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-12 14:56:52,607 DEBUG main [TagOperationMethod.ButtonTag]debug : --clik element xpath://input[@id = "su"]
+2020-11-12 14:56:56,279 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Back the first page
+2020-11-12 14:57:02,810 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-12 14:58:48,935 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-12 14:58:57,982 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-12 14:59:02,061 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-12 14:59:02,062 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-12 14:59:06,778 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-12 14:59:10,388 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-12 14:59:19,075 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-12 14:59:22,372 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-12 14:59:25,530 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-12 14:59:28,779 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Back the first page
+2020-11-12 14:59:34,873 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-12 16:10:42,060 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-12 16:10:48,560 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-12 16:10:53,681 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-12 16:10:53,693 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-12 16:10:58,827 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-12 16:11:02,123 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-12 16:11:10,685 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-12 16:11:14,092 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-12 16:11:17,498 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-12 16:11:20,904 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Back the first page
+2020-11-12 16:11:27,819 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-12 16:13:22,232 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-12 16:13:29,325 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-12 16:13:32,575 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-12 16:13:32,578 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-12 16:13:37,263 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-12 16:13:40,623 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-12 16:13:49,185 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-12 16:13:52,357 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-12 16:13:55,529 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-12 16:14:25,575 ERROR main [Tests.BaiduStudyTestCase]error : --Case script run failed!!!
+2020-11-12 16:14:30,857 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-12 16:17:27,388 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-12 16:17:33,247 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-12 16:17:37,371 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-12 16:17:37,374 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-12 16:17:42,013 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-12 16:17:45,201 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-12 16:17:53,561 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-12 16:17:56,888 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-12 16:18:00,186 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-12 16:18:03,591 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Back the first page
+2020-11-12 16:18:10,076 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-13 16:00:44,371 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-13 16:00:54,249 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-13 16:00:57,694 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-13 16:00:57,695 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-13 16:01:02,578 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-13 16:01:06,308 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-13 16:01:14,795 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-13 16:01:18,138 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-13 16:01:21,529 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-13 16:01:25,388 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Back the first page
+2020-11-13 16:01:32,608 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-13 16:04:06,607 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-13 16:04:14,731 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-13 16:04:24,007 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-13 16:04:24,011 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-13 16:04:29,560 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-13 16:04:32,919 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-13 16:04:41,623 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-13 16:04:45,404 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-13 16:04:48,985 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-13 16:05:19,544 ERROR main [Tests.BaiduStudyTestCase]error : --Case script run failed!!!
+2020-11-13 16:05:25,217 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-13 16:08:09,669 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-13 16:08:18,373 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-13 16:08:23,317 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-13 16:08:23,321 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-13 16:08:28,357 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-13 16:08:31,734 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-13 16:08:40,654 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-13 16:08:44,094 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-13 16:08:47,829 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-13 16:09:18,357 ERROR main [Tests.BaiduStudyTestCase]error : --Case script run failed!!!
+2020-11-13 16:09:24,201 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-13 16:11:37,591 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-13 16:11:46,663 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-13 16:11:52,108 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-13 16:11:52,124 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-13 16:11:57,998 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-13 16:12:01,458 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-13 16:12:10,039 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-13 16:12:15,002 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-13 16:12:18,483 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-13 16:12:48,857 ERROR main [Tests.BaiduStudyTestCase]error : --Case script run failed!!!
+2020-11-13 16:12:55,088 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
+2020-11-13 16:20:00,982 INFO main [Tests.BaiduStudyTestCase]info : --Init driver
+2020-11-13 16:20:07,138 INFO main [Tests.BaiduStudyTestCase]info : Open url :https://www.baidu.com/.
+2020-11-13 16:20:12,178 INFO main [Tests.BaiduStudyTestCase]info : --Test case script start run
+2020-11-13 16:20:12,180 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Input box text:BeyondSofterr
+2020-11-13 16:20:16,779 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Delete the excess text
+2020-11-13 16:20:20,000 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Double click on the selected text:BeyondSofterr
+2020-11-13 16:20:23,388 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Cut the selected text:BeyondSofterr
+2020-11-13 16:20:26,576 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Copy the selected text:BeyondSofterr
+2020-11-13 16:20:29,888 INFO main [CasePageOperation.BaiduCasePageOperator]info : --Click the search button
+2020-11-13 16:21:00,325 ERROR main [Tests.BaiduStudyTestCase]error : --Case script run failed!!!
+2020-11-13 16:21:06,139 INFO main [Tests.BaiduStudyTestCase]info : --Test case run end succeed!!
